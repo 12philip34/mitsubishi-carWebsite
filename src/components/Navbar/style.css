@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbarBackgrounColor{
+    background: dodgerblue;
+}
+
+.logoWidth{
+    width: 50px;
+}
+
+.navbarContainer{
+    margin: 0 20px;
+}
+
+.navbarContainer li a{
+    font-weight: 600;
+    color: white;
+}
+
+.searchBtn{
+    border: none;
+    border-radius: 10px;
+    color: white;
+    border: 1px solid crimson;
+    background: dodgerblue;
+}
+
+.searchBtn:hover{
+    color: white;
+    background: crimson;
+}
